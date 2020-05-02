@@ -71,6 +71,11 @@ html,body{
 .fun{
     width: 100%;
     margin-bottom: 2rem;
+    background-color: #563D7C;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
 }
 .gif{
     max-width: 100%;
